@@ -1,0 +1,61 @@
+h2 {
+    color: blue;
+    text-decoration: green underline;
+    padding-left: 30px;
+}
+
+.Cyrus {
+    color: yellow;
+    text-decoration: blue;
+    font-size: 50px;
+}
+
+.style {
+    color: red;
+    text-decoration: brown dashed;
+    font-size: 20px;
+}
+
+#shape {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+}
+
+.Main-div {
+    display:flex ;
+    gap: 100px;
+    border: red solid 2px;
+    padding: 20px;
+}
+
+.first-div {
+    border: yellow solid 10px;
+    flex: 1;
+    padding: 15px;
+    min-width: 250px;
+    background-color: lightblue;
+}
+
+.Second-div {
+    border:maroon solid 20px;
+    flex: 1;
+    padding: 25px;
+    
+}
+
+.Third-div {
+    border: tomato solid 2px;
+    flex: 1;
+    padding: 15px;
+    min-width: 250px;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    border: blue solid 3px;
+     list-style-type: none;
+     background-color: blue;
+     color: aqua;
+}
